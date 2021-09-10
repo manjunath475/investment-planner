@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My_Project</string>
+    <string name="investment">Investment Type :</string>
+    <string name="btn_sip">SIP</string>
+    <string name="btn_ot">One-Time</string>
+
+    <string name="sip_cal">SIP Calculator</string>
+    <string name="sip_amt">Monthly SIP Amount</string>
+    <string name="Rs">₹</string>
+    <string name="sip_gain">Expected Gain %(Per Year)</string>
+    <string name="sip_tenure">SIP Tenure</string>
+    <string name="cal">Calculate</string>
+    <string name="calc">Calculate</string>
+    <string name="amount_invested">Amount Invested:</string>
+    <string name="estimated_growth">Estimated Growth:</string>
+
+    <string name="pft_cal">Profit Calculator</string>
+    <string name="inv_amt">Investment Amount</string>
+    <string name="inv_tenure">Tenure</string>
+    <string name="more_info">More Info</string>
+
+    <string name="bank">Bank(RD)</string>
+    <string name="lrf">Low Risk Funds</string>
+    <string name="mrf">Mid Risk Funds</string>
+    <string name="hrf">High Risk Funds</string>
+    <string name="ic">Investment Planner</string>
+    <string name="Sip">What is Sip?</string>
+    <string name="MF">What is Mutual Fund?</string>
+</resources>
